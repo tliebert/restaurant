@@ -1,0 +1,16 @@
+.paragraph {
+    border: 1px solid black;
+}
+
+.image {
+    height: 50vh;
+    width: 50vh;
+}
+
+.title {
+    border: 1px solid tomato;
+}
+
+.contentContainer {
+    border: 1px solid tomato;
+}
